@@ -359,7 +359,7 @@ h4 {
 .main-slider-btn {
   position: absolute;
   top: 50%;
-  transform: translateY(-50%);
+  transform: translate(-100%, -50%);
   width: 3rem;
   height: 3rem;
   border: none;
